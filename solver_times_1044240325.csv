@@ -1,0 +1,1361 @@
+Level,Run,TimeSeconds,ExitCode,Output,Error
+gg_1,1,0.09683036804199219,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.022 Sekunden",
+gg_1,2,0.08222365379333496,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.021 Sekunden",
+gg_1,3,0.0804600715637207,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.020 Sekunden",
+gg_1,4,0.0807034969329834,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.020 Sekunden",
+gg_1,5,0.07635259628295898,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.020 Sekunden",
+gg_1,6,0.07817387580871582,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.022 Sekunden",
+gg_1,7,0.08339381217956543,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.019 Sekunden",
+gg_1,8,0.0875236988067627,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.020 Sekunden",
+gg_1,9,0.0814971923828125,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.022 Sekunden",
+gg_1,10,0.09666728973388672,0,"Solver loop with visibles:1, unknown:12
+Solver loop with visibles:13, unknown:0
+Solved steps:1 max-local-difficulty:None max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }])
+Solver Laufzeit: 0.023 Sekunden",
+gg_2,1,0.0806877613067627,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.017 Sekunden",
+gg_2,2,0.10103750228881836,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.021 Sekunden",
+gg_2,3,0.09393835067749023,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.024 Sekunden",
+gg_2,4,0.08430957794189453,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.017 Sekunden",
+gg_2,5,0.10394644737243652,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.024 Sekunden",
+gg_2,6,0.0841832160949707,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.017 Sekunden",
+gg_2,7,0.0821986198425293,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.017 Sekunden",
+gg_2,8,0.0852808952331543,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.019 Sekunden",
+gg_2,9,0.10335397720336914,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.022 Sekunden",
+gg_2,10,0.10214352607727051,0,"Solver loop with visibles:0, unknown:45
+Solver loop with visibles:6, unknown:39
+Solver loop with visibles:10, unknown:35
+Solver loop with visibles:14, unknown:31
+Solver loop with visibles:17, unknown:28
+Solver loop with visibles:21, unknown:24
+Solver loop with visibles:25, unknown:20
+Solver loop with visibles:26, unknown:19
+Solver loop with visibles:32, unknown:13
+Solver loop with visibles:37, unknown:8
+Solver loop with visibles:41, unknown:4
+Solver loop with visibles:45, unknown:0
+Solved steps:11 max-local-difficulty:Some(4) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 8, r: 2 }, Coords { q: 8, r: 6 }, Coords { q: 20, r: -4 }, Coords { q: 20, r: 0 }, Coords { q: 24, r: -6 }, Coords { q: 24, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 4 }, Coords { q: 9, r: 5 }, Coords { q: 23, r: -5 }, Coords { q: 23, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 3 }, Coords { q: 10, r: 3 }, Coords { q: 23, r: -3 }, Coords { q: 23, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 9, r: 2 }, Coords { q: 11, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 2 }, Coords { q: 11, r: 4 }, Coords { q: 21, r: -3 }, Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }, Coords { q: 12, r: 4 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 0 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 1 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }} }])
+Solver Laufzeit: 0.022 Sekunden",
+gg_3,1,0.4076085090637207,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.317 Sekunden",
+gg_3,2,0.342026948928833,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.276 Sekunden",
+gg_3,3,0.3950808048248291,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.322 Sekunden",
+gg_3,4,0.3068413734436035,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.240 Sekunden",
+gg_3,5,0.29346275329589844,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.236 Sekunden",
+gg_3,6,0.3330552577972412,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.270 Sekunden",
+gg_3,7,0.3500328063964844,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.269 Sekunden",
+gg_3,8,0.3136887550354004,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.242 Sekunden",
+gg_3,9,0.32797694206237793,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.267 Sekunden",
+gg_3,10,0.29973435401916504,0,"Solver loop with visibles:2, unknown:21
+Solver loop with visibles:4, unknown:19
+Solver loop with visibles:5, unknown:18
+Solver loop with visibles:9, unknown:14
+Solver loop with visibles:17, unknown:6
+Solver loop with visibles:20, unknown:3
+Solver loop with visibles:22, unknown:1
+Solver loop with visibles:23, unknown:0
+Solved steps:7 max-local-difficulty:Some(4) max-global-difficulty:None
+Solved([Findings { difficulty: Local(4), cells: {Coords { q: 12, r: 3 }, Coords { q: 20, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -2 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 15, r: 0 }, Coords { q: 15, r: 3 }, Coords { q: 18, r: 0 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 4 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 3 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 1 }, Coords { q: 21, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 3 }, Coords { q: 11, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 3 }} }])
+Solver Laufzeit: 0.232 Sekunden",
+gg_4,1,0.12019062042236328,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.060 Sekunden",
+gg_4,2,0.11996841430664062,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.059 Sekunden",
+gg_4,3,0.11236166954040527,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.053 Sekunden",
+gg_4,4,0.11305618286132812,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.056 Sekunden",
+gg_4,5,0.1280977725982666,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.060 Sekunden",
+gg_4,6,0.12788963317871094,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.065 Sekunden",
+gg_4,7,0.12084555625915527,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.056 Sekunden",
+gg_4,8,0.12746906280517578,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.067 Sekunden",
+gg_4,9,0.15291523933410645,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.077 Sekunden",
+gg_4,10,0.1399986743927002,0,"Solver loop with visibles:4, unknown:45
+Solver loop with visibles:13, unknown:36
+Solver loop with visibles:31, unknown:18
+Solver loop with visibles:36, unknown:13
+Solver loop with visibles:39, unknown:10
+Solver loop with visibles:40, unknown:9
+Solver loop with visibles:43, unknown:6
+Solver loop with visibles:44, unknown:5
+Solver loop with visibles:45, unknown:4
+Solver loop with visibles:49, unknown:0
+Solved steps:9 max-local-difficulty:Some(3) max-global-difficulty:Some(5)
+Solved([Findings { difficulty: Local(2), cells: {Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }, Coords { q: 12, r: 0 }, Coords { q: 13, r: -3 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: -4 }, Coords { q: 15, r: -4 }, Coords { q: 16, r: -4 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 12, r: 6 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 6 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 6 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 16, r: 4 }, Coords { q: 17, r: -2 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }, Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -6 }, Coords { q: 19, r: -6 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(5), cells: {Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: 3 }} }])
+Solver Laufzeit: 0.065 Sekunden",
+gg_5,1,0.07427692413330078,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.012 Sekunden",
+gg_5,2,0.07200241088867188,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.012 Sekunden",
+gg_5,3,0.07623720169067383,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.015 Sekunden",
+gg_5,4,0.09067010879516602,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.018 Sekunden",
+gg_5,5,0.08419108390808105,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.012 Sekunden",
+gg_5,6,0.09271121025085449,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.016 Sekunden",
+gg_5,7,0.0901796817779541,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.012 Sekunden",
+gg_5,8,0.07867670059204102,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.013 Sekunden",
+gg_5,9,0.10283303260803223,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.016 Sekunden",
+gg_5,10,0.08213162422180176,0,"Solver loop with visibles:0, unknown:33
+Solver loop with visibles:11, unknown:22
+Solver loop with visibles:17, unknown:16
+Solver loop with visibles:19, unknown:14
+Solver loop with visibles:21, unknown:12
+Solver loop with visibles:27, unknown:6
+Solver loop with visibles:28, unknown:5
+Solver loop with visibles:29, unknown:4
+Solver loop with visibles:30, unknown:3
+Solver loop with visibles:31, unknown:2
+Solver loop with visibles:32, unknown:1
+Solver loop with visibles:33, unknown:0
+Solved steps:11 max-local-difficulty:Some(2) max-global-difficulty:Some(4)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 2 }, Coords { q: 14, r: 0 }, Coords { q: 15, r: -1 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 2 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 19, r: 0 }, Coords { q: 20, r: 0 }, Coords { q: 21, r: -4 }, Coords { q: 21, r: -1 }, Coords { q: 22, r: -4 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }, Coords { q: 19, r: -3 }} }, Findings { difficulty: Global(4), cells: {Coords { q: 12, r: 0 }, Coords { q: 13, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 15, r: 2 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 11, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: 3 }} }])
+Solver Laufzeit: 0.013 Sekunden",
+ml_1,1,0.06598448753356934,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,2,0.06662678718566895,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,3,0.07605504989624023,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.003 Sekunden",
+ml_1,4,0.062361955642700195,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,5,0.0635991096496582,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,6,0.07828688621520996,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,7,0.07256340980529785,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,8,0.0766594409942627,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,9,0.06827449798583984,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_1,10,0.07458233833312988,0,"Solver loop with visibles:4, unknown:5
+Solver loop with visibles:5, unknown:4
+Solver loop with visibles:8, unknown:1
+Solver loop with visibles:9, unknown:0
+Solved steps:3 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }} }])
+Solver Laufzeit: 0.002 Sekunden",
+ml_2,1,0.06786513328552246,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.010 Sekunden",
+ml_2,2,0.07140827178955078,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.011 Sekunden",
+ml_2,3,0.06978297233581543,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.009 Sekunden",
+ml_2,4,0.0690164566040039,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.010 Sekunden",
+ml_2,5,0.06914472579956055,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.010 Sekunden",
+ml_2,6,0.07347393035888672,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.009 Sekunden",
+ml_2,7,0.07571601867675781,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.016 Sekunden",
+ml_2,8,0.08136105537414551,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.009 Sekunden",
+ml_2,9,0.07526087760925293,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.009 Sekunden",
+ml_2,10,0.08271431922912598,0,"Solver loop with visibles:0, unknown:20
+Solver loop with visibles:5, unknown:15
+Solver loop with visibles:9, unknown:11
+Solver loop with visibles:14, unknown:6
+Solver loop with visibles:15, unknown:5
+Solver loop with visibles:16, unknown:4
+Solver loop with visibles:18, unknown:2
+Solver loop with visibles:20, unknown:0
+Solved steps:7 max-local-difficulty:Some(2) max-global-difficulty:None
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -2 }, Coords { q: 14, r: 2 }, Coords { q: 17, r: 1 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: -3 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 19, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 17, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 0 }, Coords { q: 17, r: -3 }} }])
+Solver Laufzeit: 0.009 Sekunden",
+ml_3,1,0.12383556365966797,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.055 Sekunden",
+ml_3,2,0.11321353912353516,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.045 Sekunden",
+ml_3,3,0.10895276069641113,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.044 Sekunden",
+ml_3,4,0.10665607452392578,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.043 Sekunden",
+ml_3,5,0.12173247337341309,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.054 Sekunden",
+ml_3,6,0.13979864120483398,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.051 Sekunden",
+ml_3,7,0.14241981506347656,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.060 Sekunden",
+ml_3,8,0.17066311836242676,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.085 Sekunden",
+ml_3,9,0.18422174453735352,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.081 Sekunden",
+ml_3,10,0.15658235549926758,0,"Solver loop with visibles:3, unknown:22
+Solver loop with visibles:5, unknown:20
+Solver loop with visibles:8, unknown:17
+Solver loop with visibles:20, unknown:5
+Solver loop with visibles:22, unknown:3
+Solver loop with visibles:23, unknown:2
+Solver loop with visibles:24, unknown:1
+Solver loop with visibles:25, unknown:0
+Solved steps:7 max-local-difficulty:Some(1) max-global-difficulty:Some(7)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 1 }, Coords { q: 15, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Global(7), cells: {Coords { q: 14, r: 2 }, Coords { q: 14, r: 3 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 16, r: -1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -2 }, Coords { q: 18, r: -2 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: -1 }, Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 17, r: 2 }} }])
+Solver Laufzeit: 0.068 Sekunden",
+the_trial,1,0.3558058738708496,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.271 Sekunden",
+the_trial,2,0.2995624542236328,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.231 Sekunden",
+the_trial,3,0.2958669662475586,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.232 Sekunden",
+the_trial,4,0.2758030891418457,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.220 Sekunden",
+the_trial,5,0.2735579013824463,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.217 Sekunden",
+the_trial,6,0.29053759574890137,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.231 Sekunden",
+the_trial,7,0.3173360824584961,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.250 Sekunden",
+the_trial,8,0.3340792655944824,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.269 Sekunden",
+the_trial,9,0.2987995147705078,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.237 Sekunden",
+the_trial,10,0.32434654235839844,0,"Solver loop with visibles:4, unknown:109
+Solver loop with visibles:6, unknown:107
+Solver loop with visibles:13, unknown:100
+Solver loop with visibles:14, unknown:99
+Solver loop with visibles:15, unknown:98
+Solver loop with visibles:17, unknown:96
+Solver loop with visibles:22, unknown:91
+Solver loop with visibles:28, unknown:85
+Solver loop with visibles:32, unknown:81
+Solver loop with visibles:40, unknown:73
+Solver loop with visibles:41, unknown:72
+Solver loop with visibles:48, unknown:65
+Solver loop with visibles:49, unknown:64
+Solver loop with visibles:52, unknown:61
+Solver loop with visibles:57, unknown:56
+Solver loop with visibles:58, unknown:55
+Solver loop with visibles:64, unknown:49
+Solver loop with visibles:68, unknown:45
+Solver loop with visibles:69, unknown:44
+Solver loop with visibles:72, unknown:41
+Solver loop with visibles:74, unknown:39
+Solver loop with visibles:76, unknown:37
+Solver loop with visibles:77, unknown:36
+Solver loop with visibles:78, unknown:35
+Solver loop with visibles:79, unknown:34
+Solver loop with visibles:84, unknown:29
+Solver loop with visibles:86, unknown:27
+Solver loop with visibles:88, unknown:25
+Solver loop with visibles:89, unknown:24
+Solver loop with visibles:90, unknown:23
+Solver loop with visibles:91, unknown:22
+Solver loop with visibles:93, unknown:20
+Solver loop with visibles:97, unknown:16
+Solver loop with visibles:98, unknown:15
+Solver loop with visibles:100, unknown:13
+Solver loop with visibles:101, unknown:12
+Solver loop with visibles:102, unknown:11
+Solver loop with visibles:103, unknown:10
+Solver loop with visibles:104, unknown:9
+Solver loop with visibles:106, unknown:7
+Solver loop with visibles:108, unknown:5
+Solver loop with visibles:109, unknown:4
+Solver loop with visibles:110, unknown:3
+Solver loop with visibles:112, unknown:1
+Solver loop with visibles:113, unknown:0
+Solved steps:44 max-local-difficulty:Some(4) max-global-difficulty:Some(15)
+Solved([Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -1 }, Coords { q: 10, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: -2 }, Coords { q: 10, r: 1 }, Coords { q: 11, r: -2 }, Coords { q: 11, r: -1 }, Coords { q: 12, r: -3 }, Coords { q: 12, r: -2 }, Coords { q: 12, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 13, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -4 }, Coords { q: 14, r: -3 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 12, r: 0 }, Coords { q: 14, r: -2 }, Coords { q: 14, r: -1 }, Coords { q: 15, r: 4 }, Coords { q: 15, r: 5 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 10, r: 4 }, Coords { q: 12, r: 4 }, Coords { q: 14, r: 5 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: 4 }, Coords { q: 18, r: 4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 4 }, Coords { q: 16, r: 5 }, Coords { q: 17, r: 3 }, Coords { q: 18, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 4 }, Coords { q: 14, r: 6 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }, Coords { q: 22, r: -2 }, Coords { q: 22, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: 2 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 2 }, Coords { q: 16, r: 0 }, Coords { q: 16, r: 1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 3 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 8 }, Coords { q: 11, r: 7 }, Coords { q: 12, r: 6 }, Coords { q: 20, r: -2 }, Coords { q: 22, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 11, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 9, r: 7 }, Coords { q: 9, r: 8 }, Coords { q: 10, r: 2 }, Coords { q: 10, r: 3 }, Coords { q: 12, r: 7 }, Coords { q: 13, r: 6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: 3 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 3 }, Coords { q: 22, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 2 }, Coords { q: 21, r: 2 }, Coords { q: 22, r: 2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 1 }, Coords { q: 23, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 12, r: 1 }, Coords { q: 21, r: 1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 23, r: 0 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 24, r: 0 }} }, Findings { difficulty: Global(15), cells: {Coords { q: 8, r: 8 }, Coords { q: 17, r: -5 }, Coords { q: 23, r: -8 }, Coords { q: 23, r: -7 }, Coords { q: 24, r: -8 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -5 }, Coords { q: 18, r: -6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 22, r: -8 }, Coords { q: 22, r: -5 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -1 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 10, r: 5 }, Coords { q: 10, r: 6 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 18, r: -5 }, Coords { q: 18, r: -4 }, Coords { q: 20, r: -5 }, Coords { q: 20, r: -4 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -4 }} }, Findings { difficulty: Local(4), cells: {Coords { q: 16, r: -1 }, Coords { q: 20, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 20, r: -7 }} }, Findings { difficulty: Local(3), cells: {Coords { q: 22, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 22, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 21, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 19, r: -5 }, Coords { q: 21, r: -7 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -3 }, Coords { q: 19, r: -6 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 18, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 16, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -3 }, Coords { q: 16, r: -3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 15, r: -4 }} }])
+Solver Laufzeit: 0.250 Sekunden",
