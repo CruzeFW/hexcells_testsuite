@@ -1,32 +1,26 @@
 import subprocess
 import time
+import psutil
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
 
-# Pfad zum Ordner mit Level-Dateien
-LEVEL_DIR = Path(r"C:\Users\florian.widhalm\Documents\BA\hexSolverASCII\extra")
-SOLVER_PATH = r"C:\Users\florian.widhalm\Documents\BA\hexSolverASCII\target\debug\hexcells-solver.exe"
-
-# Basisverzeichnis (dort, wo das Skript liegt)
+# Pfade & Setup
+LEVEL_DIR = Path(r"D:\Datein\Stuff\FHTechnikum\6Semester\hexAlgo\extra")
+SOLVER_PATH = r"D:\Datein\Stuff\FHTechnikum\6Semester\hexAlgo\target\debug\hexcells-solver.exe"
 SCRIPT_DIR = Path(__file__).parent.resolve()
-
-# Zeitstempel im Format HHMMDDMMYY
-timestamp = datetime.now().strftime("%H%M%d%m%y")
-
-# Neuer Ordner für diesen Lauf
+timestamp = datetime.now().strftime("%d%m%y_%H%M")
 RUN_DIR = SCRIPT_DIR / "solver_runs" / timestamp
 RUN_DIR.mkdir(parents=True, exist_ok=True)
-
 CSV_OUTPUT = RUN_DIR / "solver_times.csv"
 
-# Alle .txt-Dateien im Level-Verzeichnis finden
+# Level-Dateien laden
 level_files = sorted(LEVEL_DIR.glob("*.txt"))
-
 data = []
 
+# Hauptlauf: alle Levels, je 10 Wiederholungen
 for level_file in level_files:
     with open(level_file, "r") as f:
         level_str = f.read()
@@ -35,58 +29,87 @@ for level_file in level_files:
     print(f"Running {level_name}...")
 
     for i in range(10):
+        print(f"  Run {i + 1}...")
+
         start = time.time()
-        proc = subprocess.run(
+        proc = subprocess.Popen(
             [SOLVER_PATH, "-"],
-            input=level_str.encode(),
-            capture_output=True,
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
         )
+        stdout, stderr = proc.communicate(input=level_str.encode())
         end = time.time()
+
+        try:
+            p = psutil.Process(proc.pid)
+            time.sleep(0.01)  # minimaler Delay zur Sicherheit
+            cpu_time = p.cpu_times().user + p.cpu_times().system
+            mem_info = p.memory_info()
+            memory_info = getattr(mem_info, 'peak_wset', mem_info.rss) / (1024 * 1024)
+        except Exception as e:
+            print(f"Fehler beim Erfassen von CPU/Mem: {e}")
+            cpu_time = None
+            memory_info = None
+
         duration = end - start
+        cpu_str = f"{cpu_time:.3f}s" if cpu_time is not None else "N/A"
+        mem_str = f"{memory_info:.1f}MB" if memory_info is not None else "N/A"
+        print(f"    Zeit: {duration:.3f}s, CPU: {cpu_str}, Mem: {mem_str}")
+
         data.append({
             "Level": level_name,
             "Run": i + 1,
             "TimeSeconds": duration,
+            "CPUSeconds": cpu_time,
+            "MaxMemoryMB": memory_info,
             "ExitCode": proc.returncode,
-            "Output": proc.stdout.decode().strip(),
-            "Error": proc.stderr.decode().strip(),
+            "Output": stdout.decode().strip(),
+            "Error": stderr.decode().strip(),
         })
-        print(f"  Run {i + 1}: {duration:.3f}s")
 
-# Als DataFrame speichern
+# Ergebnisse speichern
 df = pd.DataFrame(data)
-
-# CSV-Datei speichern
 df.to_csv(CSV_OUTPUT, index=False)
 print(f"\nCSV gespeichert als: {CSV_OUTPUT}")
 
-# Einzelne Boxplots pro Level erzeugen
-unique_levels = df["Level"].unique()
+# Einzelne Boxplots pro Level für Zeit, CPU und Speicher
+metrics = ["TimeSeconds", "CPUSeconds", "MaxMemoryMB"]
 
-for level in unique_levels:
-    df_level = df[df["Level"] == level]
-    plt.figure(figsize=(6, 4))
-    sns.boxplot(data=df_level, y="TimeSeconds")
-    plt.title(f"Laufzeiten für {level}")
-    plt.ylabel("Laufzeit (Sekunden)")
-    plt.xlabel("")
-    plt.tight_layout()
+for metric in metrics:
+    for level in df["Level"].unique():
+        df_level = df[df["Level"] == level]
+        df_valid = df_level.dropna(subset=[metric])
+        if not df_valid.empty:
+            plt.figure(figsize=(6, 4))
+            sns.boxplot(data=df_valid, y=metric)
+            plt.title(f"{metric} für {level}")
+            plt.ylabel(metric)
+            plt.xlabel("")
+            plt.tight_layout()
 
-    plot_filename = RUN_DIR / f"{level}.png"
-    plt.savefig(plot_filename)
-    plt.close()
-    print(f"Plot gespeichert als: {plot_filename}")
+            plot_filename = RUN_DIR / f"{level}_{metric}.png"
+            plt.savefig(plot_filename)
+            plt.close()
+            print(f"Plot gespeichert als: {plot_filename}")
+        else:
+            print(f"Keine gültigen Daten für {level} – {metric}, übersprungen.")
 
-# Gemeinsamer Boxplot für alle Levels
-plt.figure(figsize=(12, 6))
-sns.boxplot(data=df, x="Level", y="TimeSeconds")
-plt.ylabel("Laufzeit (Sekunden)")
-plt.xlabel("Level")
-plt.title("Solver-Laufzeiten pro Level (je 10 Wiederholungen)")
-plt.xticks(rotation=45)
-plt.tight_layout()
+# Gemeinsame Boxplots über alle Levels
+for metric in metrics:
+    df_valid = df.dropna(subset=[metric])
+    if not df_valid.empty:
+        plt.figure(figsize=(12, 6))
+        sns.boxplot(data=df_valid, x="Level", y=metric)
+        plt.ylabel(metric)
+        plt.xlabel("Level")
+        plt.title(f"{metric} pro Level (je 10 Wiederholungen)")
+        plt.xticks(rotation=45)
+        plt.tight_layout()
 
-combined_plot_filename = RUN_DIR / "all_levels.png"
-plt.savefig(combined_plot_filename)
-plt.close()
-print(f"\nGesamtplot gespeichert als: {combined_plot_filename}")
+        plot_filename = RUN_DIR / f"all_levels_{metric}.png"
+        plt.savefig(plot_filename)
+        plt.close()
+        print(f"Gesamtplot gespeichert als: {plot_filename}")
+    else:
+        print(f"Kein gemeinsamer Plot für {metric} möglich – alle Werte fehlen.")
