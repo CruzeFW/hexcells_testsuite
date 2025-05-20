@@ -1,9 +1,0 @@
-Level,Run,TimeSeconds,CPUSeconds,MaxMemoryMB,ExitCode,Output,Error
-explore_black_cells,1,3.075005054473877,3.015625,15.359375,0,"Solver loop with visibles:0, unknown:52
-Solver loop with visibles:44, unknown:8
-Solver loop with visibles:48, unknown:4
-Solver loop with visibles:51, unknown:1
-Solver loop with visibles:52, unknown:0
-Solved steps:4 max-local-difficulty:Some(2) max-global-difficulty:Some(9)
-Solved([Findings { difficulty: Global(9), cells: {Coords { q: 12, r: 1 }, Coords { q: 12, r: 2 }, Coords { q: 12, r: 3 }, Coords { q: 12, r: 4 }, Coords { q: 12, r: 5 }, Coords { q: 13, r: 0 }, Coords { q: 13, r: 1 }, Coords { q: 13, r: 2 }, Coords { q: 13, r: 3 }, Coords { q: 13, r: 4 }, Coords { q: 13, r: 5 }, Coords { q: 14, r: 0 }, Coords { q: 14, r: 1 }, Coords { q: 14, r: 3 }, Coords { q: 14, r: 4 }, Coords { q: 15, r: -1 }, Coords { q: 15, r: 0 }, Coords { q: 15, r: 1 }, Coords { q: 15, r: 2 }, Coords { q: 15, r: 3 }, Coords { q: 15, r: 4 }, Coords { q: 16, r: -2 }, Coords { q: 16, r: 1 }, Coords { q: 16, r: 2 }, Coords { q: 16, r: 3 }, Coords { q: 17, r: -1 }, Coords { q: 17, r: 1 }, Coords { q: 18, r: -3 }, Coords { q: 18, r: -2 }, Coords { q: 18, r: -1 }, Coords { q: 18, r: 0 }, Coords { q: 18, r: 1 }, Coords { q: 18, r: 2 }, Coords { q: 19, r: -3 }, Coords { q: 19, r: -2 }, Coords { q: 19, r: -1 }, Coords { q: 19, r: 0 }, Coords { q: 19, r: 1 }, Coords { q: 19, r: 2 }, Coords { q: 20, r: -3 }, Coords { q: 20, r: -2 }, Coords { q: 20, r: -1 }, Coords { q: 20, r: 0 }, Coords { q: 20, r: 1 }} }, Findings { difficulty: Local(2), cells: {Coords { q: 16, r: 0 }, Coords { q: 17, r: 0 }, Coords { q: 17, r: 2 }, Coords { q: 17, r: 3 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: 2 }, Coords { q: 16, r: -1 }, Coords { q: 17, r: -2 }} }, Findings { difficulty: Local(1), cells: {Coords { q: 14, r: -1 }} }])
-Solver Laufzeit: 3.064 Sekunden",
